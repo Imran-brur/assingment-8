@@ -1,0 +1,10 @@
+.commentDetail{
+    border-bottom: 3px solid rgb(58, 59, 92);
+    display: flex;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    padding: 20px;
+}

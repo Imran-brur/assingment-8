@@ -1,0 +1,22 @@
+.PostDetail{
+    background-color: rgba(152, 206, 219, 0.74);
+    font-size: 20px;
+    border-radius: 15px;
+    margin:20px;
+    color: rgb(18, 28, 31);
+    padding: 0px 15px 15px 15px;
+}
+
+#header{
+    text-align: center;
+    color: rgb(182, 51, 11);
+}
+
+.comment{
+    background-color: rgba(146, 206, 146, 0.979);
+    font-size: 20px;
+    border-radius: 15px;
+    margin:20px;
+    color: rgb(18, 28, 31);
+    padding: 0px 15px 15px 15px;
+}
